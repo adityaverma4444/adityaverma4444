@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**adityaverma4444/adityaverma4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am Aditya Verma, a programming enthusiast.
+- Recently graduated with a degree in Computer Science.
+- Currently working on Data Science and ML projects.
 
-Here are some ideas to get you started:
+## Some languages I'm familiar with
+- C
+- C++
+- Sql
+- Python
+- Java
+- Javascript(Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some things I like to do
+- Learning more core concepts:)
+- Front-end development.
+- Data Analysis and Analytics.
+- Learning more about history and gs.
